@@ -1,0 +1,129 @@
+Nama		: Niko
+NPM		: 011200031
+
+Type Pilihan Ganda
+1. citra yang bersifat continue adalah  ....
+a. citra alam
+b. citra sosial
+c. citra analog
+d. citra digital
+e. citra manusia
+
+Jawaban : c. citra analog
+
+2. Alat yang menghasilkan Citra analog, kecuali ...
+a. CT scan
+b. kamera foto
+c. kamera analog
+d. sensor rontgen
+d. kertas
+
+Jawaban : d. kertas
+
+3. Elemen Citra digital, kecuali ...
+a. kecerahan
+b. kontras
+c. tekstur
+d. abstrak
+e. warna
+
+Jawaban : d. abstrak
+
+4. Jenis-Jenis Citra digital, kecuali ...
+a. Citra biner
+b. Citra Greyscale
+c. Citra Warna
+d. skala jarak
+e. skala keabuan
+
+Jawaban : d. skala jarak
+
+5. Teknik pengolahan citra menurut Basuki 2005:11 yaitu, kecuali ..
+a. Image enhancement
+b. Image restoration
+c. Image detail
+d. Image compression
+e. Color image proccessing
+
+Jawaban : c. Image detail
+
+
+Type Multiple Choice
+1. Contoh Citra objek yang biasa digunakan dalam pembelajaran Pengolahan Citra Digital.
+a. Lena
+b. Boat
+c. Montain
+d. Cloud
+e. Air
+
+Jawaban : a,b
+
+2. Operasi matematis pada pengolahan citra digital antara lain ...
+a. penambahan
+b. pengurangan
+c. penghapusan
+d. perkalian
+e. pembagian
+
+Jawaban : a,b,d,e
+
+3. Jenis-Jenis Citra digital antara lain ...
+a. Citra biner
+b. Citra Gerak
+c. Citra Warna
+d. skala jarak
+e. skala keabuan
+
+Jawaban : a,c,e
+
+4. apa saja 2 Contoh penerapan Konvolusi ...
+a. lukisan
+b. kartu
+c. image
+d. kernel
+e. kertas
+
+Jawaban : c,d
+
+5. Contoh penerapan open cv di pengolahan citra digital untuk tranformasi image ..
+a. Translation Image
+b. Flip Image
+c. Resize Image
+d. Cropping image
+e. Delete Image
+
+Jawaban : a,b,c,d
+
+Type True/False
+1. Urutan Langkah-langkah peregangan kontras adalah
+a. Tentukan nilai intensitas piksel terendah sebagai batas bawah
+pengelompokkan piksel.
+b. Tentukan nilai intensitas piksel tertinggi sebagai batas atas
+pengelompokan piksel.
+c. Piksel-piksel yang berada di bawah batas bawah di set ke 0, sedangkan
+piksel-piksel yang berada di atas batas atas di set ke 2k-1.
+d. Pixel-pixel yang berada di antara nilai batas bawah dan nilai batas atas
+dipetakan untuk memenuhi rentang nilai-nilai keabuan yang lengkap
+(0 sampai 2k-1) dengan persamaan
+
+Jawaban : True
+
+2. Operasi Pengembang merupakan operasi untuk mendapatkan citra negatif
+(negative image) yaitu meniru film negatif pada fotografi dengan cara
+mengurangi nilai intensitas pixel dari nilai keabuan maksimum.
+
+Jawaban : False
+
+3. Sebaran gelap (darkness) dan terang (lightness) di dalam sebuah citra disebut dengan kontras. 
+
+Jawaban : True
+
+4. Operasi Pencerahan Citra (Image Brightening)
+Kecerahan citra dapat diperbaiki dengan menambahkan (atau mengurangkan) sebuah konstanta ke setiap pixel di dalam citra. Secara
+matematis dinyatakan dalam Persamaan (3.4): 
+
+Jawaban : True
+
+5. Histogram citra adalah representasi grafik yang menyatakan distribusi
+nilai-nilai warna atau intensitas piksel-piksel di dalam citra.
+Jawaban : True
